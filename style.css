@@ -41,5 +41,16 @@
 }
 .card{
   border: none;
+  border-radius: 10px;
   box-shadow: 5px 5px 15px rgb(212, 212, 212);
+}
+.card-footer{
+  background: #fff;
+  border: none;
+}
+#subscribe{
+  height: 300px;
+}
+footer{
+  text-align: center;
 }
